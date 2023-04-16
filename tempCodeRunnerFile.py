@@ -1,0 +1,1 @@
+inputs_layout.add_widget(Image(source='Heartly_LOGO.png', size_hint=(1, 1)))
